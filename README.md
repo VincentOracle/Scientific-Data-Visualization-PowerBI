@@ -14,6 +14,7 @@ Tutorial 1: Power Query(Data Transformation and Group By)
 
 Group By  feature allows us to aggregate the data based on specific criteria. We will be performing Aggregation functions like sum, average, count, etc. using group by which is like SQL.
 
+
 Step 1:- Load the 1st Dataset Named Transactions.csv and click on Transform Data.
 
 
